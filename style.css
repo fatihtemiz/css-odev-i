@@ -1,0 +1,52 @@
+body {
+    background-color: #8fd6e1;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #7b113a;
+}
+
+h2, h3 {
+    color: #150e56;
+    display: flex;
+    justify-content: center;
+}
+
+
+/* menu start */
+
+nav {
+    display: flex;
+    justify-content: center;
+
+}
+
+.nav-elements {
+    margin-right: 20px;
+   
+}
+
+/* menu end */
+
+/* urunler start */
+
+.urunlerimiz {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.urun {
+    padding-top: 5%;
+    font-size: 1.2em;
+}
+
+.urunler-liste {
+    display: flex;
+    justify-content: center;
+}
+
+/* urunler end */
+
